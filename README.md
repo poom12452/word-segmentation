@@ -1,6 +1,6 @@
-# twp-wordseg
+# TWP-wordseg
 
-twp-wordseg is the word segmentation library of Thai language 
+TWP-wordseg is the word segmentation library of Thai language 
 
 ## Installation
 
@@ -19,41 +19,7 @@ Give examples
 
 ### 
 
-A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 ## The corpus
 
 We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to reference to our wordsegmentation
@@ -65,15 +31,6 @@ We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to re
 
 
 ## Authors
-Ms. Natcha  Sovipa  5822783346 
-Mr. Thanapong  Maleewan  5822790275
-Mr. Dhawin Kritsernvong  5822791026
-
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-
+* Ms. Natcha  Sovipa  5822783346 
+* Mr. Thanapong  Maleewan  5822790275
+* Mr. Dhawin Kritsernvong  5822791026
