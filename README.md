@@ -28,7 +28,7 @@ We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to re
 ## Built With
 
 * [Python](https://www.python.org) 
-* [Lexitron](http://lexitron.nectec.or.th)
+* [LEXiTRON](http://lexitron.nectec.or.th)
 * [Marisa-trie library](https://pypi.python.org/pypi/marisa-trie)
 
 
