@@ -7,8 +7,7 @@ twp-wordseg is the word segmentation library of Thai language
 To install twp-wordseg you will need:
   1. [Download Python 2.7.x](https://www.python.org/download/releases/2.7/)
   2. [Download Marisa-trie library](https://pypi.python.org/pypi/marisa-trie)
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+   
 
 ### Prerequisites
 
