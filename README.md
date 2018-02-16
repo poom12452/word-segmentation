@@ -54,23 +54,20 @@ Explain what these tests test and why
 ```
 Give an example
 ```
+## The corpus
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to reference to our wordsegmentation
 
 ## Built With
 
 * [Python](https://www.python.org) 
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [Lexitron](http://lexitron.nectec.or.th)
 
 
 ## Authors
-
+Ms. Natcha  Sovipa  5822783346 
+Mr. Thanapong  Maleewan  5822790275
+Mr. Dhawin Kritsernvong  5822791026
 
 
 ## Acknowledgments
