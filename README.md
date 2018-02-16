@@ -9,13 +9,14 @@ To install twp-wordseg you will need:
   2. [Download Marisa-trie library](https://pypi.python.org/pypi/marisa-trie)
    
 
-### Prerequisites
+### How TWP-wordseg works
 
-What things you need to install the software and how to install them
+We use the forward-maximum length word cut for segmentation to find the longest word in the dictionary and the program will keep searching until there is no any matching in the dictionary.
 
-```
-Give examples
-```
+### How to use TWP-wordseg
+
+To segment the word the user needs to save and copy/import the text file to the input folder then run TWP-wordseg via Python.
+After, the process finished the program will create the segmented file which placed in the output folder with the same name as the file in the input folder 
 
 ### 
 
@@ -28,6 +29,7 @@ We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to re
 
 * [Python](https://www.python.org) 
 * [Lexitron](http://lexitron.nectec.or.th)
+* [Marisa-trie library](https://pypi.python.org/pypi/marisa-trie)
 
 
 ## Authors
