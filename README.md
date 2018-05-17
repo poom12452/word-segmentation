@@ -33,10 +33,10 @@ We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to re
 
 ## Analysis on Error 
 
-There are some of the error in our program </br>
-  1.Segmentation that require the context match. Due to the longest matching algorithm our program still facing some of the problem on some of the word such as 'จับตาดูดอกเบี้ย' when we segmented it the output will result as จับ|ตา|ดูด|อก|เบี้ย which the expected output is จับ|ตา|ดู|ดอก|เบี้ย</br>
-  2.Lack of words in corpus , no enough words to reference stored in the corpus
-  
+There are some of the error in our program :
+  1. Segmentation that require the context match. Due to the longest matching algorithm our program still facing some of the problem on some of the word such as 'จับตาดูดอกเบี้ย' when we segmented it the output will result as จับ|ตา|ดูด|อก|เบี้ย which the expected output is จับ|ตา|ดู|ดอก|เบี้ย</br>
+  2. Lack of words in corpus , no enough words to reference stored in the corpus
+   
 
 ## Conclusion
 
