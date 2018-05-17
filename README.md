@@ -31,6 +31,16 @@ We use the LEXiTRON Thai words dictionary corpus which developed by NECTEC to re
 * [LEXiTRON](http://lexitron.nectec.or.th)
 * [Marisa-trie library](https://pypi.python.org/pypi/marisa-trie)
 
+## Analysis on Error 
+There are some of the error in our program
+  1.Segmentation that require the context match. Due to the longest matching algorithm our program still facing some of the problem on some of the word such as 'จับตาดูดอกเบี้ย' when we segmented it the output will result as จับ|ตา|ดูด|อก|เบี้ย which the expected output is จับ|ตา|ดู|ดอก|เบี้ย
+  2.Lack of words in corpus , no enough words to reference stored in the corpus
+  
+
+## Conclusion
+
+In this project, we present a segmentation methodology of Thai words. However, we still faces the errors from many factor that interrupt  the system such as the corpus, the synonym,acronym and aslo the ambiguity of Thai words which is one of the main reason why we can not segment the Thai word from the sentences with 100 percentage accuracy.
+Future work might mainly concern on the improvement of the corpus and the special case method that might be assigned with some paring text so, when the programming fing this word it will be send to check the similarity between itself with the corpus.
 
 ## Authors
 * Ms. Natcha  Sovipa  5822783346 
